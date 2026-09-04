@@ -1,0 +1,7 @@
+# Mengabaikan Virtual Environment untuk Push ke Github
+.venv/
+venv/
+
+# Mengabaikan Python Cache untuk Push ke Github
+__pycache__/
+*.pyc
