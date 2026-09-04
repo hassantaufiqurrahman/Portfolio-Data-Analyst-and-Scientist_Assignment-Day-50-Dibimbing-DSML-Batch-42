@@ -1,6 +1,5 @@
 # Assignment Portofolio Building with Streamlit_Dibimbing DSML Batch 42_Hassan Taufiqurrahman
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassantaufiqurrahman/Portfolio-Data-Analyst-and-Scientist_Assignment-Day-50-Dibimbing-DSML-Batch-42)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassantaufiqurrahman)
 
 🤖 **Live App Demo:** [Hassan Taufiqurrahman's Data Analysis & Science Portfolio](https://hassantaufiqurrahman-portfoliodataanalysisandscience.streamlit.app/)
